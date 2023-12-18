@@ -1,2 +1,6 @@
 3333333
+<<<<<<< HEAD
 qqqqqqq
+=======
+yyyyyyyyyyy
+>>>>>>> aa
